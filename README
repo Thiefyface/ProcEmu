@@ -1,0 +1,7 @@
+Just playing around with Unicorn Engine and ptrace.
+
+usage: python EmuSwap.py <pid|exe_path>
+
+Stick to attaching to a pid for now, exe doesn't work quite yeT 
+
+[^.^]
